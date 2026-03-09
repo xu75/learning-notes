@@ -6,30 +6,30 @@
 
 ### 快速开始
 
-- [00-索引.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/00-索引.md)：按主题查找已有笔记
-- [notes/00-Inbox/README.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/00-Inbox/README.md)：先记下来，后面再整理
-- [templates/note-template.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/templates/note-template.md)：新建笔记模板
-- [reviews/README.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/reviews/README.md)：周复盘和月复盘入口
+- [00-索引.md](./00-索引.md)：按主题查找已有笔记
+- [notes/00-Inbox/README.md](./notes/00-Inbox/README.md)：先记下来，后面再整理
+- [templates/note-template.md](./templates/note-template.md)：新建笔记模板
+- [reviews/README.md](./reviews/README.md)：周复盘和月复盘入口
 
 ### 主题入口
 
-- [编程笔记](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/01-编程)
-- [工具笔记](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/02-工具)
-- [语言笔记](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/03-语言)
+- [编程笔记](./notes/01-编程)
+- [工具笔记](./notes/02-工具)
+- [语言笔记](./notes/03-语言)
 
 ### 当前内容
 
-- [Git 基础操作清单](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/01-编程/Git-基础操作清单.md)
-- [终端常用命令整理](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/02-工具/终端常用命令整理.md)
-- [Aliyun-Bridge 实践复盘](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/02-工具/Aliyun-Bridge-实践复盘.md)
-- [英语学习记录](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/03-语言/英语学习记录.md)
+- [Git 基础操作清单](./notes/01-编程/Git-基础操作清单.md)
+- [终端常用命令整理](./notes/02-工具/终端常用命令整理.md)
+- [Aliyun-Bridge 实践复盘](./notes/02-工具/Aliyun-Bridge-实践复盘.md)
+- [英语学习记录](./notes/03-语言/英语学习记录.md)
 
 ## 推荐工作流
 
-1. 临时想法先写到 [notes/00-Inbox/README.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/notes/00-Inbox/README.md)。
-2. 值得保留的内容，用 [templates/note-template.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/templates/note-template.md) 整理成正式笔记。
-3. 正式笔记放到对应主题目录，并在 [00-索引.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/00-索引.md) 补链接。
-4. 每周或每月到 [reviews/README.md](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/reviews/README.md) 做回顾，把零散笔记抽成长期有效的结论。
+1. 临时想法先写到 [notes/00-Inbox/README.md](./notes/00-Inbox/README.md)。
+2. 值得保留的内容，用 [templates/note-template.md](./templates/note-template.md) 整理成正式笔记。
+3. 正式笔记放到对应主题目录，并在 [00-索引.md](./00-索引.md) 补链接。
+4. 每周或每月到 [reviews/README.md](./reviews/README.md) 做回顾，把零散笔记抽成长期有效的结论。
 
 ## 目录结构
 

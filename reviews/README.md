@@ -4,8 +4,8 @@
 
 ## 入口
 
-- [周复盘](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/reviews/周复盘)
-- [月复盘](/Users/xujinsong/VSCode/SynologyDrive/学习笔记/reviews/月复盘)
+- [周复盘](./周复盘)
+- [月复盘](./月复盘)
 
 ## 推荐节奏
 
