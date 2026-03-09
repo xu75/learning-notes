@@ -9,6 +9,8 @@
 - [00-索引.md](./00-索引.md)：按主题查找已有笔记
 - [notes/00-Inbox/README.md](./notes/00-Inbox/README.md)：先记下来，后面再整理
 - [templates/note-template.md](./templates/note-template.md)：新建笔记模板
+- [templates/mp-article-template.md](./templates/mp-article-template.md)：公众号文章模板
+- [公众号文章收录规范.md](./公众号文章收录规范.md)：公众号文章入库规则
 - [reviews/README.md](./reviews/README.md)：周复盘和月复盘入口
 
 ### 主题入口
@@ -33,12 +35,24 @@
 3. 正式笔记放到对应主题目录，并在 [00-索引.md](./00-索引.md) 补链接。
 4. 每周或每月到 [reviews/README.md](./reviews/README.md) 做回顾，把零散笔记抽成长期有效的结论。
 
+## 公众号文章收录
+
+如果你后续继续发公众号链接，默认按 [公众号文章收录规范.md](./公众号文章收录规范.md) 处理。
+
+固定流程是：
+
+1. 读取文章标题、作者、发布时间和正文。
+2. 按 [templates/mp-article-template.md](./templates/mp-article-template.md) 生成整理版笔记。
+3. 自动补充 [README.md](./README.md) 和 [00-索引.md](./00-索引.md) 的入口。
+4. 提交并推送到 GitHub。
+
 ## 目录结构
 
 ```text
 .
 ├── 00-索引.md
 ├── README.md
+├── 公众号文章收录规范.md
 ├── assets/
 ├── notes/
 │   ├── 00-Inbox/
@@ -49,6 +63,7 @@
 │   ├── 月复盘/
 │   └── 周复盘/
 └── templates/
+    ├── mp-article-template.md
     └── note-template.md
 ```
 
