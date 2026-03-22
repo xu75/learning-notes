@@ -6,6 +6,8 @@
 
 来源：[微信公众号原文](https://mp.weixin.qq.com/...)
 
+原文备份：[Markdown 原文](../../archives/wechat/raw-markdown/xxxx.md)
+
 标签：AI / 工具 / 自动化
 
 ## 一句话结论

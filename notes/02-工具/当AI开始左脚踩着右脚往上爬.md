@@ -6,7 +6,7 @@
 
 来源：[微信公众号原文](https://mp.weixin.qq.com/s/pyt-QmEC3L3SCYWsOg5p3g)
 
-原文备份：[HTML 快照](../../archives/wechat/raw-html/2026-03-07-openclaw-collab-pyt-QmEC3L3SCYWsOg5p3g.html)
+原文备份：[Markdown 原文](../../archives/wechat/raw-markdown/2026-03-07-openclaw-collab-pyt-QmEC3L3SCYWsOg5p3g.md)
 
 标签：OpenClaw / AI 协作 / Agent / 交互设计 / 工具体验
 

@@ -6,7 +6,7 @@
 
 来源：[微信公众号原文](https://mp.weixin.qq.com/s/LC-2x6nMaC2dBVz-9LMCNw)
 
-原文备份：[HTML 快照](../../archives/wechat/raw-html/2026-03-20-group-memory-evolution-LC-2x6nMaC2dBVz-9LMCNw.html)
+原文备份：[Markdown 原文](../../archives/wechat/raw-markdown/2026-03-20-group-memory-evolution-LC-2x6nMaC2dBVz-9LMCNw.md)
 
 标签：OpenClaw / Group Memory / Hook / 自动化 / Agent
 
