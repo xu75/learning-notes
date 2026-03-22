@@ -11,6 +11,7 @@
 - [templates/note-template.md](./templates/note-template.md)：新建笔记模板
 - [templates/mp-article-template.md](./templates/mp-article-template.md)：公众号文章模板
 - [公众号文章收录规范.md](./公众号文章收录规范.md)：公众号文章入库规则
+- [archives/wechat/README.md](./archives/wechat/README.md)：公众号原文备份索引
 - [reviews/README.md](./reviews/README.md)：周复盘和月复盘入口
 
 ### 主题入口

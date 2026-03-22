@@ -6,6 +6,8 @@
 
 来源：[微信公众号原文](https://mp.weixin.qq.com/s/VbH6uw_5qaNxlDqgWxEQOA)
 
+原文备份：[HTML 快照](../../archives/wechat/raw-html/2026-03-05-gpt-trading-bot-VbH6uw_5qaNxlDqgWxEQOA.html)
+
 标签：AI / 自动化 / 交易 / 策略 / 编程协作
 
 ## 一句话结论
